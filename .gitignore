@@ -90,3 +90,8 @@ i18n/*/.cache/
 i18n/*/.translate-cache.json
 i18n/*/ui.json
 site/langs.js
+
+# Model checkpoint files
+*.pt
+*.pth
+*.safetensors
